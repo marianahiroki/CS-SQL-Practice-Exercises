@@ -2,7 +2,7 @@
 
 Description:
 
-This repository contains a collection of SQL exercises completed during my comprehensive Bootcamp on SQL. The exercises cover a range of topics, including data querying, manipulation, and database management. 
+This repository contains a collection of SQL exercises completed during my comprehensive L3 Data Essential Skills Bootcamp in 2023. The exercises cover a range of topics, including data querying, manipulation, and database management. 
 Each exercise is documented in Jupyter Notebooks, providing hands-on practice with SQL queries and database interactions. Dive into this repository to explore my learning journey and proficiency in SQL through these exercises.
 
 Contents:
